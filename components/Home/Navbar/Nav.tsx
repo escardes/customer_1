@@ -44,13 +44,13 @@ const Nav = ({openNav}:Props) => {
             {/** NavLinks */}
             <div  className='hidden lg:flex items-center space-x-10 '>
                 {navLinks.map((link)=>{
-                    return <Link href={link.url} key={link.id}>
+                    return <Link href={link!.url} key={link!.id}>
                         <p className="relative 
                       text-white text-base font-medium w-fit 
                       block after:block after:content-[''] after:absolute 
                       after:h-[3px] after:bg-yellow-300 after:w-full after:scale-x-0 
                       after:hover:scale-x-100 after:transition duration-300 after:origin-right">
-                        {link.label}
+                        {link!.label}
                     </p>
                     </Link>
                 })}
