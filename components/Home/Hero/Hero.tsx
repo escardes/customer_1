@@ -24,7 +24,7 @@ const Hero = () => {
                         Group Youri Lemba LLC, The Best Choice around
                     </h1>
                     <p className='md:text-base text-center text-lg text-white font-normal [word-spacing:5px]'>
-                        Get your place renovate or remodel in second, nationwide
+                        Get your place renovated or remodeled in second, nationwide
                     </p>
                 </div>
                 {/** New catalogue */}
