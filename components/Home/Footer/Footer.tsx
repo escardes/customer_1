@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
-import { FaDribbble, FaFacebook, FaInstagram, FaTwitter } from 'react-icons/fa'
+import { FaFacebook, FaInstagram, FaTwitter } from 'react-icons/fa'
+import { IoLogoLinkedin } from 'react-icons/io'
 
 const Footer = () => {
   return (
@@ -75,7 +76,7 @@ const Footer = () => {
                     <FaTwitter />
                 </Link>
                 <Link href="#" className="text-gray-500 hover:text-gray-800">
-                    <FaDribbble />
+                    <IoLogoLinkedin />
                 </Link>
                 <Link href="#" className="text-gray-500 hover:text-gray-800">
                     <FaInstagram />

@@ -3,9 +3,9 @@
 import { navLinks } from '@/constant/constant'
 import Link from 'next/link'
 import React, { useEffect, useState } from 'react'
-import { BsBank } from 'react-icons/bs'
 import { GoRead } from 'react-icons/go'
 import { HiBars3BottomRight } from 'react-icons/hi2'
+import { FaHome } from "react-icons/fa";
 
 
 type Props ={
@@ -37,7 +37,7 @@ const Nav = ({openNav}:Props) => {
             {/** Logo */}
             <div className='flex items-center space-x-2'>
                 <div className='w-10 h-10 bg-rose-500 rounded-full flex items-center justify-center flex-col'>
-                    <BsBank className='w-6 h-6 text-white'/>
+                    <FaHome  className='w-6 h-6 text-white'/>
                 </div>
                 <h1 className='text-xl md:text-2xl text-white font-bold'>Group Y.K.N</h1>
             </div>
