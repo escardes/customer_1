@@ -65,7 +65,7 @@ const Footer = () => {
         {/** Bottom Section */}
         <div className='mt-8 w-[80%] mx-auto border-t pt-8 flex flex-col md:flex-row justify-between items-center text-gray-600 text-sm'>
             <p className='text-center md:text-left'>
-                `Copyright &copy;{ new Date().getFullYear()} Group Youri Lemba LLC. All rights reserved
+                `Copyright &copy;{ new Date().getFullYear()} Group Y.K.N Services LLC. All rights reserved
             </p>
             <div className='flex items-center space-x-4 mt-4 md:mt-0'>
                 <Link href="#" className="text-gray-500 hover:text-gray-800">

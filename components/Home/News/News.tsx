@@ -6,7 +6,7 @@ const News = () => {
   return (
     <div className='pt-16 pb-16'>
         {/** Sectuion heading */}
-        <SectionHeading heading='Renovation and Remodel Update' headingBellow='See why you need the choose Group Youri Lemba for your remodel and renovation'/>
+        <SectionHeading heading='Renovation and Remodel Update' headingBellow='See why you need the choose Group Y.K.N Services LLC for your remodel and renovation'/>
         <div className='w-[80%] mx-auto grid grid-cols-1 md:grid-cols-2
            lg:grid-cols-3 xl:grid-cols-4 gap-10 items-center mt-20'
         >

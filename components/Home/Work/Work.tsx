@@ -7,7 +7,7 @@ const Work = () => {
   return (
     <div className='pt-20 pb-20'>
         {/** Section Heading */}
-        <SectionHeading heading='Explore Our Finished Designs From Our Hard-working Team' headingBellow='Sweat or not sweat we make it happen at Group Youri Lemba LLC'/>
+        <SectionHeading heading='Explore Our Finished Designs From Our Hard-working Team' headingBellow='Sweat or not sweat we make it happen at Group Y.K.N Services LLC'/>
         {/** Our Work Design  */}
         <div className='w-[80%] mx-auto grid grid-cols-1 md:grid-cols-2
            lg:grid-cols-3 xl:grid-cols-4 gap-8 items-center mt-16 '

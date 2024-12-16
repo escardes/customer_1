@@ -7,7 +7,7 @@ const Inspiration = () => {
     <div className="">
         <div className="pt-20 pb-20">
             {/** Section Heading */}
-            <SectionHeading heading='Explore Some of Our Inspirational Works' headingBellow='Group Youri Lemba, the right renovator and remaker of your place'/>
+            <SectionHeading heading='Explore Some of Our Inspirational Works' headingBellow='Group Y.K.N Services LLC, the right renovator and remaker of your place'/>
             {/** Section Content */}
             <div className='mt-14 w-[80%] mx-auto'>
                 <InspirationSlider />

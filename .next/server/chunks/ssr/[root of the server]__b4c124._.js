@@ -321,7 +321,7 @@ const Footer = ()=>{
                         children: [
                             "`Copyright ©",
                             new Date().getFullYear(),
-                            " Group Youri Lemba LLC. All rights reserved"
+                            " Group Y.K.N Services LLC. All rights reserved"
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/Home/Footer/Footer.tsx",

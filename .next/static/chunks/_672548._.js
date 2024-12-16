@@ -44,8 +44,8 @@ const Hero = ()=>{
                             "data-aos": "fade-up",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                    className: "text-[25px] mb-4 md:mb-0 text-center md:text-[35px] lg:text-[45px] tracking-[0.7rem] text-white font-bold",
-                                    children: "Group Youri Lemba LLC, The Best Choice around"
+                                    className: "text-[25px] mb-4 md:mb-0 text-center md:text-[35px] lg:text-[45px] tracking-[0.5rem] text-white font-bold",
+                                    children: "Group Y.K.N Services LLC, The Best Choice around"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Home/Hero/Hero.tsx",
                                     lineNumber: 23,
@@ -53,7 +53,7 @@ const Hero = ()=>{
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "md:text-base text-center text-lg text-white font-normal [word-spacing:5px]",
-                                    children: "Get your place renovate or remodel in second, nationwide"
+                                    children: "Get your place renovated or remodeled in second, nationwide"
                                 }, void 0, false, {
                                     fileName: "[project]/components/Home/Hero/Hero.tsx",
                                     lineNumber: 26,
@@ -501,7 +501,7 @@ const Inspiration = ()=>{
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Helper$2f$SectionHeading$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                     heading: "Explore Some of Our Inspirational Works",
-                    headingBellow: "Group Youri Lemba, the right renovator and remaker of your place"
+                    headingBellow: "Group Y.K.N Services LLC, the right renovator and remaker of your place"
                 }, void 0, false, {
                     fileName: "[project]/components/Home/Inspiration/Inspiration.tsx",
                     lineNumber: 10,
@@ -694,7 +694,7 @@ const Work = ()=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Helper$2f$SectionHeading$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                 heading: "Explore Our Finished Designs From Our Hard-working Team",
-                headingBellow: "Sweat or not sweat we make it happen at Group Youri Lemba LLC"
+                headingBellow: "Sweat or not sweat we make it happen at Group Y.K.N Services LLC"
             }, void 0, false, {
                 fileName: "[project]/components/Home/Work/Work.tsx",
                 lineNumber: 10,
@@ -817,7 +817,7 @@ const WhyChoose = ()=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Helper$2f$SectionHeading$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                 heading: "Why Choose Us",
-                headingBellow: "At Group Youri Lemba LLC, we never disappoint our customers"
+                headingBellow: "At Group Y.K.N Services LLC, we never disappoint our customers"
             }, void 0, false, {
                 fileName: "[project]/components/Home/WhyChoose/WhyChoose.tsx",
                 lineNumber: 9,
@@ -850,7 +850,7 @@ const WhyChoose = ()=>{
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Home$2f$WhyChoose$2f$WhyChooseCard$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                             image: "/images/c2.svg",
                             title: "Easy & Quick Schedule",
-                            text: "At Group Youri Lemba LLC, we are always time as soon we got your contact, so let's do your hard work"
+                            text: "At Group Y.K.N Services LLC, we are always time as soon we got your contact, so let's do your hard work"
                         }, void 0, false, {
                             fileName: "[project]/components/Home/WhyChoose/WhyChoose.tsx",
                             lineNumber: 16,
@@ -868,7 +868,7 @@ const WhyChoose = ()=>{
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Home$2f$WhyChoose$2f$WhyChooseCard$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                             image: "/images/c3.svg",
                             title: "Customer Care for 24/7",
-                            text: "At Group Youri Lemba LLC, we got you cover no matter what is the time or the place nationwide, we can get there before finishing your sentences"
+                            text: "At Group Y.K.N Services LLC, we got you cover no matter what is the time or the place nationwide, we can get there before finishing your sentences"
                         }, void 0, false, {
                             fileName: "[project]/components/Home/WhyChoose/WhyChoose.tsx",
                             lineNumber: 19,
@@ -1309,7 +1309,7 @@ const News = ()=>{
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Helper$2f$SectionHeading$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                 heading: "Renovation and Remodel Update",
-                headingBellow: "See why you need the choose Group Youri Lemba for your remodel and renovation"
+                headingBellow: "See why you need the choose Group Y.K.N Services LLC for your remodel and renovation"
             }, void 0, false, {
                 fileName: "[project]/components/Home/News/News.tsx",
                 lineNumber: 9,

@@ -39,7 +39,7 @@ const Nav = ({openNav}:Props) => {
                 <div className='w-10 h-10 bg-rose-500 rounded-full flex items-center justify-center flex-col'>
                     <BsBank className='w-6 h-6 text-white'/>
                 </div>
-                <h1 className='text-xl md:text-2xl text-white font-bold'>GroupYKN</h1>
+                <h1 className='text-xl md:text-2xl text-white font-bold'>Group Y.K.N</h1>
             </div>
             {/** NavLinks */}
             <div  className='hidden lg:flex items-center space-x-10 '>
