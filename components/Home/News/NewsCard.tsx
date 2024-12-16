@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 type Props = {
     image:string;
-    date:String;
+    date:string;
     title:string;
 }
 
