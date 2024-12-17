@@ -8,7 +8,7 @@
     {"offset": {"line": 29, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
     {"offset": {"line": 35, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
     {"offset": {"line": 39, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
-    {"offset": {"line": 45, "column": 0}, "map": {"version":3,"sources":["file:///Users/apple/Downloads/travel_startup-main-2/app/page.tsx"],"sourcesContent":["import Home from \"@/components/Home/Home\";\nimport React from \"react\";\n\nconst HomePage = () => {\n  return <div className=\"overflow-hidden\">\n    <Home />\n  </div>;\n};\n\nexport default HomePage;\n"],"names":[],"mappings":";;;;AAAA;;;AAGA,MAAM,WAAW;IACf,qBAAO,8OAAC;QAAI,WAAU;kBACpB,cAAA,8OAAC,2HAAA,CAAA,UAAI;;;;;;;;;;AAET;uCAEe"}},
+    {"offset": {"line": 45, "column": 0}, "map": {"version":3,"sources":["file:///Users/apple/Downloads/travel_startup-main-2/app/page.tsx"],"sourcesContent":["import Home from \"@/components/Home/Home\";\nimport React from \"react\";\n\nconst HomePage = () => {\n  return <div className=\"overflow-hidden\">\n      <Home />\n  </div>;\n};\n\nexport default HomePage;\n"],"names":[],"mappings":";;;;AAAA;;;AAGA,MAAM,WAAW;IACf,qBAAO,8OAAC;QAAI,WAAU;kBAClB,cAAA,8OAAC,2HAAA,CAAA,UAAI;;;;;;;;;;AAEX;uCAEe"}},
     {"offset": {"line": 67, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
     {"offset": {"line": 78, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
     {"offset": {"line": 78, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},

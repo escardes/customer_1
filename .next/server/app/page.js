@@ -4,6 +4,7 @@ runtime.loadChunk("server/chunks/ssr/node_modules_next_dist_66bdff._.js");
 runtime.loadChunk("server/chunks/ssr/[root of the server]__ea5163._.js");
 runtime.loadChunk("server/chunks/ssr/app_db13a2._.js");
 runtime.loadChunk("server/chunks/ssr/node_modules_react-icons_fa_index_mjs_a1beb0._.js");
+runtime.loadChunk("server/chunks/ssr/node_modules_react-icons_io_index_mjs_c24c6e._.js");
 runtime.loadChunk("server/chunks/ssr/node_modules_react-icons_lib_b806b5._.js");
 runtime.loadChunk("server/chunks/ssr/node_modules_next_ac8925._.js");
 runtime.loadChunk("server/chunks/ssr/[root of the server]__b4c124._.js");
