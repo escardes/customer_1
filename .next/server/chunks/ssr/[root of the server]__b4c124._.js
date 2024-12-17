@@ -166,7 +166,7 @@ const Footer = ()=>{
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800",
-                                children: "Gift Cards"
+                                children: "Estimate"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
                                 lineNumber: 22,
@@ -174,7 +174,7 @@ const Footer = ()=>{
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800",
-                                children: "Magazines"
+                                children: "Team"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
                                 lineNumber: 25,
@@ -231,7 +231,7 @@ const Footer = ()=>{
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800",
-                                children: "Site Map"
+                                children: "Map"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
                                 lineNumber: 44,
@@ -265,9 +265,16 @@ const Footer = ()=>{
                                         columnNumber: 21
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                        className: "text-base font-bold text-blue-950 mt-1",
-                                        children: "+1 632 653 5632"
-                                    }, void 0, false, {
+                                        className: " flex text-base font-bold text-blue-950 mt-1",
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["FaPhoneAlt"], {}, void 0, false, {
+                                                fileName: "[project]/components/Home/Footer/Footer.tsx",
+                                                lineNumber: 55,
+                                                columnNumber: 21
+                                            }, this),
+                                            "+1 632 653 5632"
+                                        ]
+                                    }, void 0, true, {
                                         fileName: "[project]/components/Home/Footer/Footer.tsx",
                                         lineNumber: 54,
                                         columnNumber: 21

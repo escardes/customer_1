@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import { FaFacebook, FaInstagram, FaTwitter } from 'react-icons/fa'
+import { FaFacebook, FaInstagram, FaTwitter, FaPhoneAlt } from 'react-icons/fa'
 import { IoLogoLinkedin } from 'react-icons/io'
 
 const Footer = () => {
@@ -20,10 +20,10 @@ const Footer = () => {
                     Blogs 
                 </p>
                 <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800'>
-                    Gift Cards
+                    Estimate
                 </p>
                 <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800'>
-                    Magazines
+                    Team
                 </p>
             </div>
             {/** 2nd part */}
@@ -42,7 +42,7 @@ const Footer = () => {
                     Terms & Conditions
                 </p>
                 <p className='text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800'>
-                    Site Map
+                    Map
                 </p>
             </div>
             
@@ -51,8 +51,8 @@ const Footer = () => {
                 <h1 className='text-lg font-bold'>Contact Us</h1>
                 <div className='mt-6'>
                     <h1 className='text-sm text-gray-600'> Our Mobile Number</h1>
-                    <h1 className='text-base font-bold text-blue-950 mt-1'>
-                        +1 632 653 5632
+                    <h1 className=' flex text-base font-bold text-blue-950 mt-1'>
+                    <FaPhoneAlt />+1 632 653 5632
                     </h1>
                 </div>
                 <div className='mt-6'>

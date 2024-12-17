@@ -26,7 +26,7 @@ const News = () => {
             </div>
             <div data-aos = "fade-left" data-aos-anchor-placement="top-center"  data-aos-delay ="200">
                 <NewsCard  
-                  image="/images/renovate25.png" 
+                  image="/images/renovate42.png" 
                   title="Best Interior Design Ever Seen In the USA"
                   date="22 November 2024"
                 /> 
