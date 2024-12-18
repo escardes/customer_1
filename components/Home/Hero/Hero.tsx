@@ -28,7 +28,7 @@ const Hero = () => {
                     </p>
                 </div>
                 {/** New catalogue */}
-                <Link href="#" className='rounded px-14 md:px-28 mt-6 py-2.5 
+                <Link href="/Catalogue" className='rounded px-14 md:px-28 mt-6 py-2.5 
                     overflow-hidden group bg-rose-600 
                     relative hover:bg-gradient-to-r hover:from-red-500
                     hover:to-red-400 text-white hover:ring-2 hover:ring-offset-2 
