@@ -470,6 +470,11 @@ img, video {
   display: none;
 }
 
+.size-9 {
+  width: 2.25rem;
+  height: 2.25rem;
+}
+
 .h-10 {
   height: 2.5rem;
 }
