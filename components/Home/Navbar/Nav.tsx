@@ -42,7 +42,7 @@ const Nav = ({openNav}:Props) => {
                         <FaHome  className='w-6 h-6 z-10 text-white '/>
                         <GiAngelWings className='absolute size-9 text-white z-1'/>
                     </div>
-                    <h1 className='text-xl md:text-2xl text-white font-bold'>GroupYKN</h1>
+                    <h1 className='text-xl md:text-2xl text-white font-bold'>Group Y.K.N</h1>
                 </div>
             </Link>
             {/** NavLinks */}
