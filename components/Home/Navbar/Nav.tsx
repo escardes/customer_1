@@ -6,7 +6,6 @@ import React, { useEffect, useState } from 'react'
 import { GoRead } from 'react-icons/go'
 import { HiBars3BottomRight } from 'react-icons/hi2'
 import { FaHome } from "react-icons/fa";
-import {GiAngelWings} from 'react-icons/gi'
 
 
 type Props ={
