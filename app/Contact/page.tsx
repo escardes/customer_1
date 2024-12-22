@@ -39,7 +39,7 @@ const Contact = () => {
     <div className='relative'>
       <div className=' grid grid-cols-1 md:grid-cols-2'>
       <div className="relative inset-auto w-[90%] h-[140vh] m-auto min-h-screen flex items-center justify-center">
-        <div className="absolute w-full h-full transition-all duration-300 bg-blue-600 rounded-sm  hover:blur-sm z-10"></div>
+        <div className="absolute w-full h-full transition-all duration-300 bg-[#847600] rounded-sm  hover:blur-sm z-10"></div>
         <div className="z-40 items-center justify-center">
           <Image 
             src='/images/renovate39.png' 
@@ -118,7 +118,7 @@ const Contact = () => {
             onChange={(e) => setContent(e.target.value)}
           />
 
-          <button className= 'w-full bg-blue-500 py-4 px-3 rounded-md font-bold text-blue-50 transition-all duration-700 hover:scale-105'>
+          <button className= 'w-full bg-[#847600] py-4 px-3 rounded-md font-bold text-blue-50 transition-all duration-700 hover:scale-105'>
             SEND MESSAGE
           </button>
         </form>

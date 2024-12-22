@@ -7,7 +7,6 @@
   "chunks": [
     "static/chunks/[root of the server]__79c848._.css",
     "static/chunks/node_modules_react-icons_fa_index_mjs_d2e2d7._.js",
-    "static/chunks/node_modules_react-icons_gi_index_mjs_5eee45._.js",
     "static/chunks/node_modules_react-icons_go_index_mjs_af0fd2._.js",
     "static/chunks/node_modules_react-icons_hi2_index_mjs_d1d125._.js",
     "static/chunks/node_modules_react-icons_cg_index_mjs_1c0b60._.js",

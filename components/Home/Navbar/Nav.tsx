@@ -38,9 +38,8 @@ const Nav = ({openNav}:Props) => {
             {/** Logo */}
             <Link href="/">
                 <div className='flex items-center space-x-2'>
-                    <div className='w-10 h-10 bg-rose-500 rounded-full flex items-center justify-center flex-col'>
+                    <div className='w-10 h-10 bg-[#847474] rounded-full flex items-center justify-center flex-col'>
                         <FaHome  className='w-6 h-6 z-10 text-white '/>
-                        <GiAngelWings className='absolute size-9 text-white z-1'/>
                     </div>
                     <h1 className='text-xl md:text-2xl text-white font-bold'>Group Y.K.N</h1>
                 </div>
