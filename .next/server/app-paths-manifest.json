@@ -1,7 +1,10 @@
 {
-  "/Inspiration/page": "app/Inspiration/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/page": "app/page.js",
   "/About/page": "app/About/page.js",
-  "/Contact/page": "app/Contact/page.js"
+  "/Inspiration/page": "app/Inspiration/page.js",
+  "/Contact/page": "app/Contact/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/Blog/page": "app/Blog/page.js",
+  "/page": "app/page.js",
+  "/Services/page": "app/Services/page.js",
+  "/Catalogue/page": "app/Catalogue/page.js"
 }

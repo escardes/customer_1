@@ -20,7 +20,7 @@ __turbopack_esm__({
 {}const navLinks = [
     {
         id: 1,
-        url: "#",
+        url: "/",
         label: "Home"
     },
     {
@@ -36,18 +36,18 @@ __turbopack_esm__({
     },
     {
         id: 4,
-        url: "#",
+        url: "/Services",
         label: "Services"
     },
     {
         id: 5,
-        url: "#",
+        url: "/Blog",
         label: "Blog"
     },
     {
         id: 6,
-        url: "#",
-        label: "Direction"
+        url: '/Catalogue',
+        label: "Catalogue"
     },
     {
         id: 7,
@@ -90,7 +90,7 @@ const Nav = ({ openNav })=>{
         return ()=>window.removeEventListener("scroll", handler);
     }, []);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: ` ${navBag ? "bg-blue-950 shadow-md" : "backdrop-blur-md fixed"} transition-all duration-200 h-[12vh] z-[1000] fixed w-full`,
+        className: ` ${navBag ? "bg-blue-950 shadow-md" : "backdrop-blur-md fixed"} transition-all duration-200 h-[12vh] z-[1000] fixed w-full top-0`,
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "flex items-center h-full justify-between w-[90%] xl:w-[80%] mx-auto",
             children: [
