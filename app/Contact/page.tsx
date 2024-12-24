@@ -38,34 +38,35 @@ const Contact = () => {
   return (
     <div className='relative'>
       <div className=' grid grid-cols-1 md:grid-cols-2'>
-      <div className="relative inset-auto w-[90%] h-[140vh] m-auto min-h-screen flex items-center justify-center">
-        <div className="absolute w-full h-full transition-all duration-300 bg-[#847600] rounded-sm  hover:blur-sm z-10"></div>
-        <div className="z-40 items-center justify-center">
-          <Image 
-            src='/images/renovate39.png' 
-            alt="Image not found" 
-            width={500} 
-            height={500}
-            priority
-            className="w-full h-full object-cover rounded-full shadow-lg"
-          />
-          <div className="absolute pt-5 pb-3 font-bold w-full h-full flex flex-col text-bold text-3xl text-white z-20">CONTACT US
-            <div className='flex flex-col'>
-               <p className='text-xl font-bold'>ADDRESS:</p>
-               <p className='text-lg'>1719 Route 10 East Suite 100</p>
-               <p className='text-lg'>Parsippany, NJ 07054</p>
-            </div>
-            <div className='flex flex-col'>
-              <p className='text-xl'>PHONE:</p>
-              <p className='text-lg'>+1 928-456-3875</p>
-            </div>
-            <div className='flex flex-col'>
-              <p className='text-xl font-bold'>FAX:</p>
-              <p className='text-lg'>+1 973-267-4202</p>
+        <div className="relative inset-auto w-[90%] h-[140vh] m-auto min-h-screen flex items-center justify-center">
+          <div className="absolute w-full h-full transition-all duration-300 bg-[#847600] rounded-sm  hover:blur-sm z-10"></div>
+          <div className=" z-40">
+            <Image 
+              src='/images/renovate39.png' 
+              alt="Image not found" 
+              width={500} 
+              height={500}
+              priority
+              className="w-full h-full object-cover rounded-full shadow-lg"
+            />
+            <div className="relative pt-5 pb-3 font-bold w-full h-full flex flex-col text-bold text-3xl text-white z-20 items-center justify-center">CONTACT US
+              
+                 <p className='text-xl font-bold'>ADDRESS:</p>
+                 <p className='text-lg'>1719 Route 10 East Suite 100</p>
+                 <p className='text-lg'>Parsippany, NJ 07054</p>
+            
+              
+                <p className='text-xl'>PHONE:</p>
+                <p className='text-lg'>+1 928-456-3875</p>
+              
+              
+                <p className='text-xl font-bold'>FAX:</p>
+                <p className='text-lg'>+1 973-267-4202</p>
+                <p className='text-xl'>Email:</p>
+                <p className='text-lg'>info@groupyknllc.com</p>
             </div>
           </div>
         </div>
-      </div>
       <div className="relative w-[90%] mx-auto min-h-screen flex items-center justify-between">
         <form className='w-full' onSubmit={handleSubmit}>
           <label htmlFor='name' className='opacity-60'>

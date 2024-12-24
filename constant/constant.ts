@@ -10,13 +10,13 @@ export const navLinks = [
   },
   {
     id: 2,
-    url: "#",
+    url: "/About",
     label: "About",
   },
   ,
   {
     id: 3,
-    url: "#",
+    url: "/Inspiration",
     label: "Inspiration",
   },
   {

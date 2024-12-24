@@ -25,13 +25,13 @@ __turbopack_esm__({
     },
     {
         id: 2,
-        url: "#",
+        url: "/About",
         label: "About"
     },
     ,
     {
         id: 3,
-        url: "#",
+        url: "/Inspiration",
         label: "Inspiration"
     },
     {
@@ -105,12 +105,12 @@ const Nav = ({ openNav })=>{
                                     className: "w-6 h-6 z-10 text-white "
                                 }, void 0, false, {
                                     fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                                    lineNumber: 42,
+                                    lineNumber: 41,
                                     columnNumber: 25
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                                lineNumber: 41,
+                                lineNumber: 40,
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -118,18 +118,18 @@ const Nav = ({ openNav })=>{
                                 children: "Group Y.K.N"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                                lineNumber: 44,
+                                lineNumber: 43,
                                 columnNumber: 21
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                        lineNumber: 40,
+                        lineNumber: 39,
                         columnNumber: 17
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                    lineNumber: 39,
+                    lineNumber: 38,
                     columnNumber: 13
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -142,18 +142,18 @@ const Nav = ({ openNav })=>{
                                 children: link.label
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                                lineNumber: 51,
+                                lineNumber: 50,
                                 columnNumber: 25
                             }, this)
                         }, link.id, false, {
                             fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                            lineNumber: 50,
+                            lineNumber: 49,
                             columnNumber: 28
                         }, this);
                     })
                 }, void 0, false, {
                     fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                    lineNumber: 48,
+                    lineNumber: 47,
                     columnNumber: 13
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -163,12 +163,12 @@ const Nav = ({ openNav })=>{
                             className: "md:px-12 md:py-2.5 px-8 py-2 text-black text-base bg-white hover:bg-gray-200 transition-all duration-200 rounded-lg",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$go$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["GoRead"], {}, void 0, false, {
                                 fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                                lineNumber: 65,
+                                lineNumber: 64,
                                 columnNumber: 17
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                            lineNumber: 63,
+                            lineNumber: 62,
                             columnNumber: 15
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$hi2$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["HiBars3BottomRight"], {
@@ -176,24 +176,24 @@ const Nav = ({ openNav })=>{
                             className: "w-8 h-8 cursor-pointer text-white lg:hidden"
                         }, void 0, false, {
                             fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                            lineNumber: 68,
+                            lineNumber: 67,
                             columnNumber: 15
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                    lineNumber: 62,
+                    lineNumber: 61,
                     columnNumber: 13
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/Home/Navbar/Nav.tsx",
-            lineNumber: 37,
+            lineNumber: 36,
             columnNumber: 9
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/Home/Navbar/Nav.tsx",
-        lineNumber: 36,
+        lineNumber: 35,
         columnNumber: 5
     }, this);
 };
