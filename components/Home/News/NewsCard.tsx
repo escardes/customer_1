@@ -18,6 +18,7 @@ const NewsCard = ({date, image, title}:Props) => {
              width={300}
              height={300}
              className='w-full h-full object-cover rounded-lg'
+             priority
            />
         </div>
         {/** Text Content */}

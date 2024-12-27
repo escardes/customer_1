@@ -93,7 +93,7 @@ const Nav = ({ openNav })=>{
         }
     }["Nav.useEffect"], []);
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: ` ${navBag ? "bg-blue-950 shadow-md" : "backdrop-blur-md fixed"} transition-all duration-200 h-[12vh] z-[1000] fixed w-full top-0`,
+        className: ` ${navBag ? "bg-amber-400 shadow-md" : "backdrop-blur-md fixed"} transition-all duration-200 h-[12vh] z-[1000] fixed w-full top-0`,
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "flex items-center h-full justify-between w-[90%] xl:w-[80%] mx-auto",
             children: [
@@ -103,7 +103,7 @@ const Nav = ({ openNav })=>{
                         className: "flex items-center space-x-2",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "w-10 h-10 bg-[#847474] rounded-full flex items-center justify-center flex-col",
+                                className: "w-10 h-10 bg-gray-500 rounded-full flex items-center justify-center flex-col",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FaHome"], {
                                     className: "w-6 h-6 z-10 text-white "
                                 }, void 0, false, {
@@ -117,7 +117,7 @@ const Nav = ({ openNav })=>{
                                 columnNumber: 21
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                className: "text-xl md:text-2xl text-white font-bold",
+                                className: "text-xl md:text-2xl text-black/50 font-bold",
                                 children: "Group Y.K.N"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Navbar/Nav.tsx",
@@ -141,7 +141,7 @@ const Nav = ({ openNav })=>{
                         return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                             href: link.url,
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "relative  text-white text-base font-medium w-fit  block after:block after:content-[''] after:absolute  after:h-[3px] after:bg-yellow-300 after:w-full after:scale-x-0  after:hover:scale-x-100 after:transition duration-300 after:origin-right",
+                                className: "relative  text-black/50 text-base font-medium w-fit  block after:block after:content-[''] after:absolute  after:h-[3px] after:bg-yellow-300 after:w-full after:scale-x-0  after:hover:scale-x-100 after:transition duration-300 after:origin-right",
                                 children: link.label
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Navbar/Nav.tsx",
@@ -163,15 +163,15 @@ const Nav = ({ openNav })=>{
                     className: "flex items-center space-x-4",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                            className: "md:px-12 md:py-2.5 px-8 py-2 text-black text-base bg-white hover:bg-gray-200 transition-all duration-200 rounded-lg",
+                            className: "md:px-12 md:py-2.5 px-8 py-2 text-white text-base bg-gray-500 hover:bg-gray-400 transition-all duration-300 rounded-lg",
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$go$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["GoRead"], {}, void 0, false, {
                                 fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                                lineNumber: 64,
+                                lineNumber: 65,
                                 columnNumber: 17
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                            lineNumber: 62,
+                            lineNumber: 63,
                             columnNumber: 15
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$hi2$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["HiBars3BottomRight"], {
@@ -179,7 +179,7 @@ const Nav = ({ openNav })=>{
                             className: "w-8 h-8 cursor-pointer text-white lg:hidden"
                         }, void 0, false, {
                             fileName: "[project]/components/Home/Navbar/Nav.tsx",
-                            lineNumber: 67,
+                            lineNumber: 68,
                             columnNumber: 15
                         }, this)
                     ]
@@ -237,13 +237,13 @@ const MobileNav = ({ showNav, closeNav })=>{
                 columnNumber: 9
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: `text-white ${navOpen} fixed justify-center flex flex-col h-full transform transition-all duration-500 delay-300 w-[80%] sm:w-[60%] bg-rose-900 space-y-6 z-[1050]`,
+                className: `text-white ${navOpen} fixed justify-center flex flex-col h-full transform transition-all duration-500 delay-300 w-[80%] sm:w-[60%] bg-amber-300 space-y-6 z-[1050]`,
                 children: [
                     __TURBOPACK__imported__module__$5b$project$5d2f$constant$2f$constant$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["navLinks"].map((link)=>{
                         return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                             href: link.url,
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-white w-fit text-[20px] ml-12  border-b-[1.5px] pb-1 border-white sm-text-[30px]",
+                                className: "text-black/50 w-fit text-[20px] ml-12  border-b-[1.5px] pb-1 border-white sm-text-[30px]",
                                 children: link.label
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Navbar/MobileNav.tsx",
@@ -261,7 +261,7 @@ const MobileNav = ({ showNav, closeNav })=>{
                         className: "absolute top-[0.7rem] right-[1.4rem] sm:w-8 sm:h-8 w-6 h-6"
                     }, void 0, false, {
                         fileName: "[project]/components/Home/Navbar/MobileNav.tsx",
-                        lineNumber: 31,
+                        lineNumber: 32,
                         columnNumber: 14
                     }, this)
                 ]
@@ -387,7 +387,7 @@ const ScrollToTop = ()=>{
         className: "fixed bottom-4 animate-pulse right-4",
         children: isVisible && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
             onClick: scrollToTop,
-            className: "bg-rose-700 text-white rounded-full w-12 h-12 flex items-center justify-center focus:outline-none",
+            className: "bg-amber-500 text-black/50 rounded-full border-black w-12 h-12 flex items-center justify-center focus:outline-none",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["FaArrowUp"], {}, void 0, false, {
                 fileName: "[project]/components/Helper/ScrollToTop.tsx",
                 lineNumber: 33,

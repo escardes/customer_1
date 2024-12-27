@@ -67,7 +67,7 @@ const Hero = ()=>{
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                             href: "/Catalogue",
-                            className: "rounded px-14 md:px-28 mt-6 py-2.5  overflow-hidden group bg-rose-600  relative hover:bg-gradient-to-r hover:from-red-500 hover:to-red-400 text-white hover:ring-2 hover:ring-offset-2  hover:ring-red-400 transition-all ease-out duration-300",
+                            className: "rounded px-14 md:px-28 mt-6 py-2.5  overflow-hidden group bg-amber-500  relative hover:bg-gradient-to-r hover:from-amber-500 hover:to-amber-400 text-white/80 hover:ring-2 hover:ring-offset-2  hover:ring-amber-400 transition-all ease-out duration-300",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "absolute right-0 w-8 h-32 -mt-12 transition-all duration-1000 transform translate-x-12 bg-white opacity-10 rotate-12 group-hover:-translate-x-40 ease"
@@ -533,7 +533,7 @@ const WorkCard = ({ work })=>{
                 className: "relative h-[300px] w-full rounded-lg group cursor-pointer overflow-hidden",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "absolute top-4 right-4 z-20 w-8 h-8 bg-white rounded-full text-red-600 flex items-center justify-center flex-col",
+                        className: "absolute top-4 right-4 z-20 w-8 h-8 bg-white rounded-full text-gray-600 flex items-center justify-center flex-col",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaHeart"], {
                             className: "w-3 h-3 "
                         }, void 0, false, {
@@ -592,7 +592,7 @@ const WorkCard = ({ work })=>{
                         className: "flex items-center space-x-2",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "px-2 py-2 bg-blue-800 rounded-md font-bold text-white text-xs",
+                                className: "px-2 py-2 bg-amber-800 rounded-md font-bold text-white text-xs",
                                 children: work.rating
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Work/WorkCard.tsx",
@@ -1033,14 +1033,14 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$ico
 ;
 const Review = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "pt-20 pb-20 flex items-center justify-center flex-col bg-[#13357b]",
+        className: `pt-20 pb-20 flex items-center justify-center flex-col bg-gradient-to-r from-amber-300 to-amber-700`,
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "w-[80%] mx-auto grid items-center grid-cols-1 lg:grid-cols-2 gap-10",
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                            className: "text-2xl font-semibold text-white",
+                            className: "text-3xl font-semibold text-white",
                             children: "What Our Customers Are Saying about Us"
                         }, void 0, false, {
                             fileName: "[project]/components/Home/Reviews/Review.tsx",
@@ -1048,8 +1048,8 @@ const Review = ()=>{
                             columnNumber: 17
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            className: "mt-6 text-gray-200",
-                            children: "For the complete satisfaction in our services given to our devoted customers in terms of renovation and Remodel our amazing hard-working team at GroupYKN LLC for a place renovation or Remodel."
+                            className: "mt-6 text-white text-2xl",
+                            children: "For the complete satisfaction in our services given to our devoted customers in terms of renovation and Remodel our amazing hard-working team at Group Y.K.N Services LLC for a place renovation or Remodel."
                         }, void 0, false, {
                             fileName: "[project]/components/Home/Reviews/Review.tsx",
                             lineNumber: 14,
@@ -1079,28 +1079,28 @@ const Review = ()=>{
                                         className: "flex items-center",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaStar"], {
-                                                className: "text-white"
+                                                className: "text-amber-900"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/Home/Reviews/Review.tsx",
                                                 lineNumber: 25,
                                                 columnNumber: 29
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaStar"], {
-                                                className: "text-white"
+                                                className: "text-amber-900"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/Home/Reviews/Review.tsx",
                                                 lineNumber: 26,
                                                 columnNumber: 29
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaStar"], {
-                                                className: "text-white"
+                                                className: "text-amber-900"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/Home/Reviews/Review.tsx",
                                                 lineNumber: 27,
                                                 columnNumber: 29
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["FaStar"], {
-                                                className: "text-white"
+                                                className: "text-amber-900"
                                             }, void 0, false, {
                                                 fileName: "[project]/components/Home/Reviews/Review.tsx",
                                                 lineNumber: 28,
@@ -1184,7 +1184,8 @@ const NewsCard = ({ date, image, title })=>{
                     alt: title,
                     width: 300,
                     height: 300,
-                    className: "w-full h-full object-cover rounded-lg"
+                    className: "w-full h-full object-cover rounded-lg",
+                    priority: true
                 }, void 0, false, {
                     fileName: "[project]/components/Home/News/NewsCard.tsx",
                     lineNumber: 15,
@@ -1200,7 +1201,7 @@ const NewsCard = ({ date, image, title })=>{
                 children: title
             }, void 0, false, {
                 fileName: "[project]/components/Home/News/NewsCard.tsx",
-                lineNumber: 24,
+                lineNumber: 25,
                 columnNumber: 9
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1208,7 +1209,7 @@ const NewsCard = ({ date, image, title })=>{
                 children: date
             }, void 0, false, {
                 fileName: "[project]/components/Home/News/NewsCard.tsx",
-                lineNumber: 30,
+                lineNumber: 31,
                 columnNumber: 9
             }, this)
         ]
@@ -1255,7 +1256,7 @@ const News = ()=>{
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Home$2f$News$2f$NewsCard$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                             image: "/images/renovate22.png",
                             title: "Best Remodeled House model in New York, USA",
-                            date: "15 November 2024"
+                            date: "Done 15 November 2024"
                         }, void 0, false, {
                             fileName: "[project]/components/Home/News/News.tsx",
                             lineNumber: 14,
@@ -1273,7 +1274,7 @@ const News = ()=>{
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Home$2f$News$2f$NewsCard$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                             image: "/images/renovate40.png",
                             title: "Best Remodeled House Model in Alabama, USA",
-                            date: "25 November 2024"
+                            date: "Done 25 November 2024"
                         }, void 0, false, {
                             fileName: "[project]/components/Home/News/News.tsx",
                             lineNumber: 21,
@@ -1291,7 +1292,7 @@ const News = ()=>{
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Home$2f$News$2f$NewsCard$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                             image: "/images/renovate42.png",
                             title: "Best Interior Design Ever Seen In the USA",
-                            date: "22 November 2024"
+                            date: "Done 22 November 2024"
                         }, void 0, false, {
                             fileName: "[project]/components/Home/News/News.tsx",
                             lineNumber: 28,
@@ -1309,7 +1310,7 @@ const News = ()=>{
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Home$2f$News$2f$NewsCard$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"], {
                             image: "/images/renovate8.png",
                             title: "Best Renovated House Model in Cleveland Ohio USA",
-                            date: "5 November 2024"
+                            date: "Done 5 November 2024"
                         }, void 0, false, {
                             fileName: "[project]/components/Home/News/News.tsx",
                             lineNumber: 35,
@@ -1349,7 +1350,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$ico
 ;
 const Newsletter = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "bg-black pt-16 pb-16 flex items-center justify-center w-full flex-col",
+        className: `bg-gradient-to-l from-amber-200 to-amber-800 pt-16 pb-16 flex items-center justify-center w-full flex-col`,
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$bs$2f$index$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["BsEnvelope"], {
                 className: "w-16 h-16 mt-15 text-white"
@@ -1387,7 +1388,7 @@ const Newsletter = ()=>{
                         columnNumber: 13
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                        className: "px-6 py-3.5 bg-blue-900  hover:bg-blue-950  transition-all duration-200 mt-3 w-[95%] sm:w-[80%] text-white md:w-[60%] lg:w-[40%] block mx-auto rounded-lg outline-none",
+                        className: "px-6 py-3.5 bg-amber-900  hover:bg-amber-950  transition-all duration-200 mt-3 w-[95%] sm:w-[80%] text-white md:w-[60%] lg:w-[40%] block mx-auto rounded-lg outline-none",
                         children: "Subscribe"
                     }, void 0, false, {
                         fileName: "[project]/components/Home/Newsletter/Newsletter.tsx",

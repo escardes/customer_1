@@ -14,28 +14,28 @@ const News = () => {
                 <NewsCard  
                   image="/images/renovate22.png" 
                   title="Best Remodeled House model in New York, USA"
-                  date="15 November 2024"
+                  date="Done 15 November 2024"
                 /> 
             </div>
             <div data-aos = "fade-left" data-aos-anchor-placement="top-center" data-aos-delay ="100">
                 <NewsCard  
                   image="/images/renovate40.png" 
                   title="Best Remodeled House Model in Alabama, USA"
-                  date="25 November 2024"
+                  date="Done 25 November 2024"
                 /> 
             </div>
             <div data-aos = "fade-left" data-aos-anchor-placement="top-center"  data-aos-delay ="200">
                 <NewsCard  
                   image="/images/renovate42.png" 
                   title="Best Interior Design Ever Seen In the USA"
-                  date="22 November 2024"
+                  date="Done 22 November 2024"
                 /> 
             </div>
             <div data-aos = "fade-left" data-aos-anchor-placement="top-center" data-aos-delay ="300">
                 <NewsCard  
                   image="/images/renovate8.png" 
                   title="Best Renovated House Model in Cleveland Ohio USA"
-                  date="5 November 2024"
+                  date="Done 5 November 2024"
                 /> 
             </div>
 

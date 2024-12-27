@@ -124,7 +124,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$ico
 ;
 const Footer = ()=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "pt-16 pb-16",
+        className: "container mx-auto pt-16 pb-8 mb-5 mt-2 bg-gradient-to-tl from-amber-100 to-amber-900 transition-all duration-300 hover:bg-gradient-to-r text-white/70 rounded-md",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "w-[80%] mx-auto items-start grid-cols-1 sm:grid-cols-2 grid md:grid-cols-2 lg:grid-cols-4 gap-10",
@@ -141,7 +141,7 @@ const Footer = ()=>{
                                 columnNumber: 17
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800",
+                                className: " font-medium cursor-pointer text-sm",
                                 children: "About Us"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -149,7 +149,7 @@ const Footer = ()=>{
                                 columnNumber: 17
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800",
+                                className: "font-medium cursor-pointer text-sm",
                                 children: "Careers"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -157,7 +157,7 @@ const Footer = ()=>{
                                 columnNumber: 17
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800",
+                                className: "font-medium cursor-pointer text-sm",
                                 children: "Blogs"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -165,7 +165,7 @@ const Footer = ()=>{
                                 columnNumber: 17
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800",
+                                className: "font-medium cursor-pointer text-sm ",
                                 children: "Estimate"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -173,7 +173,7 @@ const Footer = ()=>{
                                 columnNumber: 17
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800",
+                                className: "font-medium cursor-pointer text-sm",
                                 children: "Team"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -198,7 +198,7 @@ const Footer = ()=>{
                                 columnNumber: 17
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800",
+                                className: "font-medium cursor-pointer text-sm",
                                 children: "Contact"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -206,7 +206,7 @@ const Footer = ()=>{
                                 columnNumber: 17
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800",
+                                className: " font-medium cursor-pointer text-sm",
                                 children: "Legal Notice"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -214,7 +214,7 @@ const Footer = ()=>{
                                 columnNumber: 17
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800",
+                                className: "font-medium cursor-pointer text-sm ",
                                 children: "Privacy Policy"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -222,7 +222,7 @@ const Footer = ()=>{
                                 columnNumber: 17
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800",
+                                className: "font-medium cursor-pointer text-sm ",
                                 children: "Terms & Conditions"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -230,7 +230,7 @@ const Footer = ()=>{
                                 columnNumber: 17
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                className: "text-gray-800 font-medium cursor-pointer text-sm hover:text-blue-800",
+                                className: "font-medium cursor-pointer text-sm ",
                                 children: "Map"
                             }, void 0, false, {
                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -257,7 +257,7 @@ const Footer = ()=>{
                                 className: "mt-6",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                        className: "text-sm text-gray-600",
+                                        className: "text-sm",
                                         children: " Our Mobile Number"
                                     }, void 0, false, {
                                         fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -265,7 +265,7 @@ const Footer = ()=>{
                                         columnNumber: 21
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                        className: " flex text-base font-bold text-blue-950 mt-1",
+                                        className: " flex text-base font-bold mt-1",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2d$icons$2f$fa$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["FaPhoneAlt"], {}, void 0, false, {
                                                 fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -289,7 +289,7 @@ const Footer = ()=>{
                                 className: "mt-6",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                        className: "text-sm text-gray-600",
+                                        className: "text-sm",
                                         children: " Our Email Address"
                                     }, void 0, false, {
                                         fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -297,7 +297,7 @@ const Footer = ()=>{
                                         columnNumber: 21
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                                        className: "text-base font-bold text-blue-950 mt-1",
+                                        className: "text-base font-bold  mt-1",
                                         children: "info@groupykn.com"
                                     }, void 0, false, {
                                         fileName: "[project]/components/Home/Footer/Footer.tsx",
@@ -323,7 +323,7 @@ const Footer = ()=>{
                 columnNumber: 9
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "mt-8 w-[80%] mx-auto border-t pt-8 flex flex-col md:flex-row justify-between items-center text-gray-600 text-sm",
+                className: "mt-8 w-[80%] mx-auto border-black border-t pt-8 flex flex-col md:flex-row justify-between items-center text-gray-600 text-sm",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-center md:text-left",

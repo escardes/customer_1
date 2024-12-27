@@ -17,7 +17,7 @@ const Nav = ({openNav}:Props) => {
     
 
     const [navBag, setNavBag] = useState(false)
-
+    
 
 
     useEffect(()=>{
@@ -32,15 +32,15 @@ const Nav = ({openNav}:Props) => {
 
 
   return (
-    <div className={` ${navBag?"bg-blue-950 shadow-md":"backdrop-blur-md fixed"} transition-all duration-200 h-[12vh] z-[1000] fixed w-full top-0`}>
+    <div className={` ${navBag?"bg-amber-400 shadow-md":"backdrop-blur-md fixed"} transition-all duration-200 h-[12vh] z-[1000] fixed w-full top-0`}>
         <div className='flex items-center h-full justify-between w-[90%] xl:w-[80%] mx-auto'>
             {/** Logo */}
             <Link href="/">
                 <div className='flex items-center space-x-2'>
-                    <div className='w-10 h-10 bg-[#847474] rounded-full flex items-center justify-center flex-col'>
+                    <div className='w-10 h-10 bg-gray-500 rounded-full flex items-center justify-center flex-col'>
                         <FaHome  className='w-6 h-6 z-10 text-white '/>
                     </div>
-                    <h1 className='text-xl md:text-2xl text-white font-bold'>Group Y.K.N</h1>
+                    <h1 className='text-xl md:text-2xl text-black/50 font-bold'>Group Y.K.N</h1>
                 </div>
             </Link>
             {/** NavLinks */}
@@ -48,7 +48,7 @@ const Nav = ({openNav}:Props) => {
                 {navLinks.map((link)=>{
                     return <Link href={link!.url} key={link!.id}>
                         <p className="relative 
-                      text-white text-base font-medium w-fit 
+                      text-black/50 text-base font-medium w-fit 
                       block after:block after:content-[''] after:absolute 
                       after:h-[3px] after:bg-yellow-300 after:w-full after:scale-x-0 
                       after:hover:scale-x-100 after:transition duration-300 after:origin-right">
@@ -59,7 +59,8 @@ const Nav = ({openNav}:Props) => {
             </div>
             {/** Button */}
             <div className='flex items-center space-x-4'>
-              <button className='md:px-12 md:py-2.5 px-8 py-2 text-black text-base bg-white hover:bg-gray-200 transition-all duration-200 rounded-lg'>
+                {/** adding a dropdown menu on our button */}
+              <button className='md:px-12 md:py-2.5 px-8 py-2 text-white text-base bg-gray-500 hover:bg-gray-400 transition-all duration-300 rounded-lg'>
                 {/** Add link to send email */}
                 <GoRead />
               </button>

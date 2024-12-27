@@ -39,8 +39,11 @@ const Contact = () => {
     <div className='relative'>
       <div className=' grid grid-cols-1 md:grid-cols-2'>
         <div className="relative inset-auto w-[90%] h-[140vh] m-auto min-h-screen flex items-center justify-center">
-          <div className="absolute w-full h-full transition-all duration-300 bg-[#847600] rounded-sm  hover:blur-sm z-10"></div>
+          <div className="absolute w-full h-full transition-all duration-300 rounded-sm  hover:blur-sm z-10"></div>
           <div className=" z-40">
+
+
+            {/** 
             <Image 
               src='/images/renovate39.png' 
               alt="Image not found" 
@@ -48,8 +51,8 @@ const Contact = () => {
               height={500}
               priority
               className="w-full h-full object-cover rounded-full shadow-lg"
-            />
-            <div className="relative pt-5 pb-3 font-bold w-full h-full flex flex-col text-bold text-3xl text-white z-20 items-center justify-center">CONTACT US
+            />*/}
+            <div className="relative pt-5 pb-3 font-bold w-full h-full flex flex-col text-bold text-3xl bg-amber-300 rounded-lg z-20 items-center justify-center">CONTACT US
               
                  <p className='text-xl font-bold'>ADDRESS:</p>
                  <p className='text-lg'>1719 Route 10 East Suite 100</p>

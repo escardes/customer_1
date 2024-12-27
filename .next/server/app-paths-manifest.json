@@ -1,10 +1,11 @@
 {
-  "/Blog/page": "app/Blog/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/Contact/page": "app/Contact/page.js",
-  "/Catalogue/page": "app/Catalogue/page.js",
-  "/Services/page": "app/Services/page.js",
-  "/Inspiration/page": "app/Inspiration/page.js",
   "/About/page": "app/About/page.js",
-  "/page": "app/page.js"
+  "/Inspiration/page": "app/Inspiration/page.js",
+  "/Services/page": "app/Services/page.js",
+  "/Blog/page": "app/Blog/page.js",
+  "/Catalogue/page": "app/Catalogue/page.js",
+  "/page": "app/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/Contact/page": "app/Contact/page.js"
 }

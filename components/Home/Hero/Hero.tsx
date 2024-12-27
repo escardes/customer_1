@@ -29,10 +29,10 @@ const Hero = () => {
                 </div>
                 {/** New catalogue */}
                 <Link href="/Catalogue" className='rounded px-14 md:px-28 mt-6 py-2.5 
-                    overflow-hidden group bg-rose-600 
-                    relative hover:bg-gradient-to-r hover:from-red-500
-                    hover:to-red-400 text-white hover:ring-2 hover:ring-offset-2 
-                    hover:ring-red-400 transition-all ease-out duration-300'>
+                    overflow-hidden group bg-amber-500 
+                    relative hover:bg-gradient-to-r hover:from-amber-500
+                    hover:to-amber-400 text-white/80 hover:ring-2 hover:ring-offset-2 
+                    hover:ring-amber-400 transition-all ease-out duration-300'>
                     <span className='absolute right-0 w-8 h-32 -mt-12 transition-all duration-1000
                       transform translate-x-12 bg-white opacity-10 rotate-12 group-hover:-translate-x-40 ease'></span>
                     <span className='relative font-bold [word-spacing:7px]'>Review Catalogue Design</span>
